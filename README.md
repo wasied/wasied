@@ -1,8 +1,8 @@
 ### Hi there ! 👋 <br>I'm **Max**.
 
-- ⌨️ I’m a **Lua, Node.JS, C, HTML/CSS & PHP** developer.
+- ⌨️ I’m a **Javascript, Typescript, C, Lua & Python** developer.
 - 🔐 I’m passionated by **security & privacy**.
-- 🔭 I’m currently a **school 42** student.
-- 🌱 I’m currently learning Python, C# & C++.
+- 🔭 I’m a **School 42** student @ Brussels.
+- 🌱 I’m currently learning C++ & C#.
 - 💪 I'll love to work with you.
 - 📫 How to reach me: **contact@maaxit.fr**.
