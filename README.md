@@ -1,4 +1,4 @@
-### Hi there ! 👋 <br>I'm **Max**.
+### Hi there ! 👋 <br>I'm **Wasied**.
 
 - ⌨️ I’m a **Lua, C/C++, JS/TS & Python** developer.
 - 🔐 I’m passionated by **security & privacy**.
